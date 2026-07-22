@@ -18,6 +18,6 @@ I created an interactive Excel dashboard to analyze residential real estate tren
 • KPI Cards
 • Slicers (Year, Zone, Property Type, IT Hub Proximity)
 • Data Cleaning & Analysis
+<img width="1324" height="588" alt="image" src="https://github.com/user-attachments/assets/4bab11df-b10c-4420-af0a-bb5ea18a52ea" />
 
-This project strengthened my analytical thinking and dashboard design skills. 
-Open to opportunities in **Data Analyst / Business Analyst / MIS roles
+This project strengthened my analytical thinking and dashboard design skills.
